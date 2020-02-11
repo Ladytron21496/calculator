@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.c00d8edb.chunk.css",
-    "main.js": "/static/js/main.6c7ad81e.chunk.js",
-    "main.js.map": "/static/js/main.6c7ad81e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5f48bb11.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5f48bb11.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.e8d47731.chunk.js": "/static/js/2.e8d47731.chunk.js",
-    "static/js/2.e8d47731.chunk.js.map": "/static/js/2.e8d47731.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ee21900dc0912d0278bad2f0b66ceb53.js": "/precache-manifest.ee21900dc0912d0278bad2f0b66ceb53.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.c00d8edb.chunk.css.map": "/static/css/main.c00d8edb.chunk.css.map",
-    "static/js/2.e8d47731.chunk.js.LICENSE.txt": "/static/js/2.e8d47731.chunk.js.LICENSE.txt"
+    "main.css": "/Ladytron21496/calculator.git/static/css/main.c00d8edb.chunk.css",
+    "main.js": "/Ladytron21496/calculator.git/static/js/main.dc37eed6.chunk.js",
+    "main.js.map": "/Ladytron21496/calculator.git/static/js/main.dc37eed6.chunk.js.map",
+    "runtime-main.js": "/Ladytron21496/calculator.git/static/js/runtime-main.376dff0e.js",
+    "runtime-main.js.map": "/Ladytron21496/calculator.git/static/js/runtime-main.376dff0e.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/Ladytron21496/calculator.git/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.e8d47731.chunk.js": "/Ladytron21496/calculator.git/static/js/2.e8d47731.chunk.js",
+    "static/js/2.e8d47731.chunk.js.map": "/Ladytron21496/calculator.git/static/js/2.e8d47731.chunk.js.map",
+    "index.html": "/Ladytron21496/calculator.git/index.html",
+    "precache-manifest.6999bcdc9030e00b6a3529e86fb9c543.js": "/Ladytron21496/calculator.git/precache-manifest.6999bcdc9030e00b6a3529e86fb9c543.js",
+    "service-worker.js": "/Ladytron21496/calculator.git/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/Ladytron21496/calculator.git/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.c00d8edb.chunk.css.map": "/Ladytron21496/calculator.git/static/css/main.c00d8edb.chunk.css.map",
+    "static/js/2.e8d47731.chunk.js.LICENSE.txt": "/Ladytron21496/calculator.git/static/js/2.e8d47731.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f48bb11.js",
+    "static/js/runtime-main.376dff0e.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.e8d47731.chunk.js",
     "static/css/main.c00d8edb.chunk.css",
-    "static/js/main.6c7ad81e.chunk.js"
+    "static/js/main.dc37eed6.chunk.js"
   ]
 }
